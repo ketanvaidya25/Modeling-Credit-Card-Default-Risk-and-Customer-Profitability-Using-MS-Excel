@@ -27,7 +27,7 @@ Cost per false negative = $5000, cost per false positive = $2500
 You have to minimize the cost per event
 
 
-2) Modeling Profitability instead of Default (Linear Regression wih Mutiple Variables)
+2)Modeling Profitability instead of Default (Linear Regression wih Mutiple Variables)
 
 3)Modeling Credit Card Default Risk and Customer Profitability
 
